@@ -4,7 +4,9 @@ Open interior for La Fuente Blanca, Madrazo ranch
 Simple drag and drop resource for fivem
 
 Drag twiztedblanca to your resource folder open server.cfg and add 
+
 start twiztedblanca
+
 start your server.
 
 If you want lockable doors, download esx_doorlock and add
