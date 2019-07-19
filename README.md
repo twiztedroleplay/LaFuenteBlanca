@@ -8,7 +8,7 @@ start twiztedblanca
 start your server.
 
 If you want lockable doors, download esx_doorlock and add
-
+```
 -- blanca main
     {
         objName = 'v_ilev_ra_door4r',
@@ -60,3 +60,4 @@ If you want lockable doors, download esx_doorlock and add
         authorizedJobs = { 'cartel' },
         locked = true
     },
+```
